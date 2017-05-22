@@ -1,7 +1,7 @@
 // staging
 var OAuthClients = {
     "agave.prod": {
-        "clientKey": "_2xmhvwpwGOLwLqP6AkR9stGHoQa",
+        "clientKey": "0vrLFTeJCSTKIwcLQoAHqEZXDS4a",
         "callbackUrl": "https://eriksf.github.io/at_microsite/app/",
         "scope": "PRODUCTION"
     }
